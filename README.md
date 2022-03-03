@@ -10,10 +10,9 @@ Numerical Analysis
 - 数值PDE/ODE...
 
 Numerical Algebra
-- 非线性方程的解
-- 求矩阵特征值
-- 求解线性系统
-
+- [x] 线性方程的解
+- [ ] 求矩阵特征值
+- [ ] 求解线性系统
 ------------
 ## Reference
 - Numerical Linear Algebra. Lloyd N. Trefethen, David Bau, III
